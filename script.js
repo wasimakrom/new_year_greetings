@@ -4,7 +4,7 @@ var minutes = document.getElementById('minutes');
 var seconds = document.getElementById('seconds');
 
 
-var endDate = '1/1/2024 00:00:00'; 
+var endDate = '1/1/2025 00:00:00'; 
 // Date format = 'mm/dd/yy'
 
 var x = setInterval(function(){
